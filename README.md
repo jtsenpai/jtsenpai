@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/jtsenpai002" target="blank"><img src="https://img.shields.io/twitter/follow/jtsenpai002?logo=twitter&style=for-the-badge" alt="jtsenpai002" /></a> </p>
 
-- 🔭 I’m currently working on [a business site for a client](https://raphaelleruby.com)
-
 - 🌱 I’m currently learning **React, TailwindCSS**
 
 - 👨‍💻 All of my projects are available at [https://jtsenpai.vercel.app](https://jtsenpai.vercel.app)
